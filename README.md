@@ -1,5 +1,3 @@
-# sunday 11:19 -> 13:39 - 19:10
-
 # Pre-requisites
 
 - Flutter SDK installed
